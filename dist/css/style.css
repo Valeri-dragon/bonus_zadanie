@@ -60,7 +60,12 @@ html::-webkit-scrollbar-thumb {
     width: 118px;
     height: 40px;
     border-radius: 3px;
-    background-color: #005bff;
+    background-image: linear-gradient(
+    var(--rotate),
+    #5ddcff,
+    #3c67e3 43%,
+    #4e00c2
+  );
     color: #fff;
     font-weight: 700;
     padding: 0;
@@ -85,8 +90,8 @@ html::-webkit-scrollbar-thumb {
     top: 45px;
     left: 0;
     z-index: 120;
-    background: #ffffff;
-    border: 2px solid #005bff;
+    background: #212534;
+    border: 2px solid #4e00c2;
     width: 200px;
 }
 .catalog ul {
@@ -96,7 +101,7 @@ html::-webkit-scrollbar-thumb {
     text-align: center;
 }
 .catalog ul li {
-    border-bottom: 1px solid #000;
+    border-bottom: 1px solid #4e00c2;
     padding: 5px;
 }
 .search {
