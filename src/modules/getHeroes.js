@@ -1,9 +1,9 @@
-/**'это библиотека */
+import { getData} from "./heplers";
+
+import renderHeroes from "./renderHeroes";
 const getHeroes = () => {
- const l = (lo) =>{
-  console.log(lo)
- }
- const body = document.querySelector('body')
-l(body)
+ 
+  getData("./dbHeroes.json").then((heroes) => renderHeroes(heroes));
+   
 };
 export default getHeroes;

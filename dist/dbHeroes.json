@@ -7,7 +7,7 @@
     "deathDay": "2017",
     "status": "deceased",
     "actors": "Tilda Swinton",
-    "photo": "dbimage/DS_Ancient_One_Poster_cropped.png",
+    "photo": "../dbimage/DS_Ancient_One_Poster_cropped.png",
     "movies": [
       "Doctor Strange",
       "Avengers: Endgame"
@@ -21,7 +21,7 @@
     "gender": "male",
     "status": "alive",
     "actors": "Paul Rudd",
-    "photo": "dbimage/AntMan-EndgameProfile.jpg",
+    "photo": "../dbimage/AntMan-EndgameProfile.jpg",
     "movies": [
       "Ant-Man",
       "Captain America: Civil War",
@@ -37,7 +37,7 @@
     "gender": "male",
     "status": "alive",
     "actors": "Chadwick Boseman",
-    "photo": "dbimage/Black_Panther_AIW_Profile.jpg",
+    "photo": "../dbimage/Black_Panther_AIW_Profile.jpg",
     "movies": [
       "Captain America: Civil War",
       "Black Panther",
@@ -55,7 +55,7 @@
     "deathDay": "2014",
     "status": "alive",
     "actors": "Scarlett Johansson",
-    "photo": "dbimage/BlackWidow-EndgameProfile.jpg",
+    "photo": "../dbimage/BlackWidow-EndgameProfile.jpg",
     "movies": [
       "Iron Man 2",
       "The Avengers",
@@ -75,7 +75,7 @@
     "birthDay": "1918",
     "status": "alive",
     "actors": "Chris Evans",
-    "photo": "dbimage/CapAmerica-EndgameProfile.jpg",
+    "photo": "../dbimage/CapAmerica-EndgameProfile.jpg",
     "movies": [
       "Captain America: The First Avenger",
       "The Avengers",
@@ -94,7 +94,7 @@
     "gender": "female",
     "status": "alive",
     "actors": "Brie Larson",
-    "photo": "dbimage/CapMarvel-EndgameProfile.jpg",
+    "photo": "../dbimage/CapMarvel-EndgameProfile.jpg",
     "movies": [
       "Captain Marvel",
       "Avengers: Endgame"
@@ -108,7 +108,7 @@
     "gender": "male",
     "status": "alive",
     "actors": "Charlie Cox",
-    "photo": "dbimage/Daredevil_S3_Textless_Poster03.jpg"
+    "photo": "../dbimage/Daredevil_S3_Textless_Poster03.jpg"
   },
   {
     "name": "Doctor Strange",
@@ -118,7 +118,7 @@
     "gender": "male",
     "status": "alive",
     "actors": "Benedict Cumberbatch",
-    "photo": "dbimage/Doctor_Strange_AIW_Profile.jpg",
+    "photo": "../dbimage/Doctor_Strange_AIW_Profile.jpg",
     "movies": [
       "Doctor Strange",
       "Thor: Ragnarok",
@@ -133,7 +133,7 @@
     "gender": "male",
     "status": "alive",
     "actors": "Dave Bautista",
-    "photo": "dbimage/Drax_AIW_Profile.jpg"
+    "photo": "../dbimage/Drax_AIW_Profile.jpg"
   },
   {
     "name": "Dum Dum Dugan",
@@ -144,7 +144,7 @@
     "birthDay": "1912",
     "status": "unknown",
     "actors": "Neal McDonough",
-    "photo": "dbimage/DumDumDuganProfile.png",
+    "photo": "../dbimage/DumDumDuganProfile.png",
     "movies": [
       "Captain America: The First Avenger",
       "The Avengers"
@@ -158,7 +158,7 @@
     "gender": "male",
     "status": "deceased",
     "actors": "James D'Arcy",
-    "photo": "dbimage/Agent_Carter_Season_2_Promo_02.jpg",
+    "photo": "../dbimage/Agent_Carter_Season_2_Promo_02.jpg",
     "movies": [
       "Avengers: Endgame"
     ]
@@ -171,7 +171,7 @@
     "deathDay": "2014",
     "status": "deceased",
     "actors": "Kurt Russell",
-    "photo": "dbimage/Ego_Profile%281%29.png",
+    "photo": "../dbimage/Ego_Profile%281%29.png",
     "movies": [
       "Guardians of the Galaxy Vol. 2"
     ]
@@ -185,7 +185,7 @@
     "deathDay": "2017",
     "status": "deceased",
     "actors": "Karl Urban",
-    "photo": "dbimage/Skurgetheexecutionerprofile.png",
+    "photo": "../dbimage/Skurgetheexecutionerprofile.png",
     "movies": [
       "Thor: Ragnarok"
     ]
@@ -198,7 +198,7 @@
     "gender": "male",
     "status": "alive",
     "actors": "Anthony Mackie",
-    "photo": "dbimage/Falcon_AIW_Profile.jpg",
+    "photo": "../dbimage/Falcon_AIW_Profile.jpg",
     "movies": [
       "Captain America: The Winter Soldier",
       "Avengers: Age of Ultron",
@@ -215,7 +215,7 @@
     "gender": "female",
     "status": "alive",
     "actors": "Zoe Saldana",
-    "photo": "dbimage/Gamora_AIW_Profile.jpg",
+    "photo": "../dbimage/Gamora_AIW_Profile.jpg",
     "movies": [
       "Guardians of the Galaxy",
       "Guardians of the Galaxy Vol. 2",
@@ -231,7 +231,7 @@
     "birthDay": "2014",
     "status": "alive",
     "actors": "Vin Diesel",
-    "photo": "dbimage/Groot_AIW_Profile.jpg",
+    "photo": "../dbimage/Groot_AIW_Profile.jpg",
     "movies": [
       "Guardians of the Galaxy",
       "Guardians of the Galaxy Vol. 2",
@@ -247,7 +247,7 @@
     "gender": "male",
     "status": "alive",
     "actors": "Michael Douglas",
-    "photo": "dbimage/Textless_AMATW_Character_Posters_03.jpg",
+    "photo": "../dbimage/Textless_AMATW_Character_Posters_03.jpg",
     "movies": [
       "Ant-Man",
       "Ant-Man and the Wasp",
@@ -262,7 +262,7 @@
     "gender": "male",
     "status": "alive",
     "actors": "Jeremy Renner",
-    "photo": "dbimage/HawkeyeRonin-EndgameProfile.jpg",
+    "photo": "../dbimage/HawkeyeRonin-EndgameProfile.jpg",
     "movies": [
       "Thor",
       "The Avengers",
@@ -280,7 +280,7 @@
     "deathDay": "2018",
     "status": "alive",
     "actors": "Idris Elba",
-    "photo": "dbimage/Thor_Ragnarok_Textless_Character_Posters_07.jpg",
+    "photo": "../dbimage/Thor_Ragnarok_Textless_Character_Posters_07.jpg",
     "movies": [
       "Thor",
       "Thor: The Dark World",
@@ -297,7 +297,7 @@
     "deathDay": "2017",
     "status": "deceased",
     "actors": "Cate Blanchett",
-    "photo": "dbimage/Thor_Ragnarok_Textless_Character_Posters_01.jpg",
+    "photo": "../dbimage/Thor_Ragnarok_Textless_Character_Posters_01.jpg",
     "movies": [
       "Thor: Ragnarok"
     ]
@@ -310,7 +310,7 @@
     "gender": "male",
     "status": "alive",
     "actors": "Daniel Brühl",
-    "photo": "dbimage/HelmutZemo-Masked.jpg",
+    "photo": "../dbimage/HelmutZemo-Masked.jpg",
     "movies": [
       "Captain America: Civil War"
     ]
@@ -324,7 +324,7 @@
     "birthDay": "1969",
     "status": "alive",
     "actors": "Edward Norton",
-    "photo": "dbimage/ProfHulkAvengersEndgamelicensingart001.jpg",
+    "photo": "../dbimage/ProfHulkAvengersEndgamelicensingart001.jpg",
     "movies": [
       "The Incredible Hulk",
       "The Avengers",
@@ -344,7 +344,7 @@
     "deathDay": "2023",
     "status": "deceased",
     "actors": "Robert Downey, Jr.",
-    "photo": "dbimage/IronMan-EndgameProfile.jpg",
+    "photo": "../dbimage/IronMan-EndgameProfile.jpg",
     "movies": [
       "Iron Man",
       "Iron Man 2",
@@ -364,7 +364,7 @@
     "gender": "female",
     "status": "alive",
     "actors": "Natalie Portman",
-    "photo": "dbimage/Jane_Foster_Asgardian.jpg",
+    "photo": "../dbimage/Jane_Foster_Asgardian.jpg",
     "movies": [
       "Thor",
       "Thor: The Dark World",
@@ -379,7 +379,7 @@
     "gender": "male",
     "status": "alive",
     "actors": "Taika Waititi",
-    "photo": "dbimage/Korgas152.jpg",
+    "photo": "../dbimage/Korgas152.jpg",
     "movies": [
       "Thor: Ragnarok",
       "Avengers: Endgame"
@@ -395,7 +395,7 @@
     "deathDay": "2018",
     "status": "deceased",
     "actors": "Tom Hiddleston",
-    "photo": "dbimage/Thor_Ragnarok_Textless_Character_Posters_03.jpg",
+    "photo": "../dbimage/Thor_Ragnarok_Textless_Character_Posters_03.jpg",
     "movies": [
       "Thor",
       "The Avengers",
@@ -413,7 +413,7 @@
     "gender": "male",
     "status": "alive",
     "actors": "Winston Duke",
-    "photo": "dbimage/Black_Panther_Textless_Character_Poster_11.jpg",
+    "photo": "../dbimage/Black_Panther_Textless_Character_Poster_11.jpg",
     "movies": [
       "Black Panther",
       "Avengers: Infinity War",
@@ -426,7 +426,7 @@
     "gender": "female",
     "status": "alive",
     "actors": "Pom Klementieff",
-    "photo": "dbimage/Mantis_AIW_Profile.jpg",
+    "photo": "../dbimage/Mantis_AIW_Profile.jpg",
     "movies": [
       "Guardians of the Galaxy Vol. 2",
       "Avengers: Infinity War",
@@ -442,7 +442,7 @@
     "deathDay": "2024",
     "status": "deceased",
     "actors": "Jake Gyllenhaal",
-    "photo": "dbimage/Mysterio-ChinesePromotional.png",
+    "photo": "../dbimage/Mysterio-ChinesePromotional.png",
     "movies": [
       "Spider-Man: Far From Home"
     ]
@@ -456,7 +456,7 @@
     "deathDay": "2017",
     "status": "deceased",
     "actors": "Anthony Hopkins",
-    "photo": "dbimage/Thor_Ragnarok_Textless_Character_Posters_08.jpg",
+    "photo": "../dbimage/Thor_Ragnarok_Textless_Character_Posters_08.jpg",
     "movies": [
       "Thor",
       "Thor: The Dark World",
@@ -473,7 +473,7 @@
     "deathDay": "2016",
     "status": "deceased",
     "actors": "Hayley Atwell",
-    "photo": "dbimage/Agent_Carter_Season_2_Promo_01.jpg",
+    "photo": "../dbimage/Agent_Carter_Season_2_Promo_01.jpg",
     "movies": [
       "Captain America: The First Avenger",
       "Captain America: The Winter Soldier",
@@ -488,7 +488,7 @@
     "gender": "female",
     "status": "alive",
     "actors": "Gwyneth Paltrow",
-    "photo": "dbimage/F_153752.jpg",
+    "photo": "../dbimage/F_153752.jpg",
     "movies": [
       "Iron Man",
       "Iron Man 2",
@@ -509,7 +509,7 @@
     "deathDay": "2012",
     "status": "deceased",
     "actors": "Clark Gregg",
-    "photo": "dbimage/Coulson_AoS5.jpg",
+    "photo": "../dbimage/Coulson_AoS5.jpg",
     "movies": [
       "Iron Man",
       "Iron Man 2",
@@ -526,7 +526,7 @@
     "gender": "male",
     "status": "deceased",
     "actors": "Aaron Taylor-Johnson",
-    "photo": "dbimage/Qckslvr.jpg",
+    "photo": "../dbimage/Qckslvr.jpg",
     "movies": [
       "Avengers: Age of Ultron"
     ]
@@ -539,7 +539,7 @@
     "gender": "male",
     "status": "alive",
     "actors": "Hugo Weaving",
-    "photo": "dbimage/RedSkullIW.png",
+    "photo": "../dbimage/RedSkullIW.png",
     "movies": [
       "Captain America: The First Avenger",
       "Avengers: Infinity War",
@@ -554,7 +554,7 @@
     "gender": "female",
     "status": "alive",
     "actors": "Elizabeth Olsen",
-    "photo": "dbimage/Scarlet_Witch_AIW_Profile.jpg",
+    "photo": "../dbimage/Scarlet_Witch_AIW_Profile.jpg",
     "movies": [
       "Avengers: Age of Ultron",
       "Captain America: Civil War",
@@ -570,7 +570,7 @@
     "gender": "female",
     "status": "alive",
     "actors": "Letitia Wright",
-    "photo": "dbimage/Shuri_AIW_Profile.jpg",
+    "photo": "../dbimage/Shuri_AIW_Profile.jpg",
     "movies": [
       "Black Panther",
       "Avengers: Infinity War",
@@ -585,7 +585,7 @@
     "gender": "female",
     "status": "alive",
     "actors": "Jaimie Alexander",
-    "photo": "dbimage/Sifwhoyoureallyare.jpg",
+    "photo": "../dbimage/Sifwhoyoureallyare.jpg",
     "movies": [
       "Thor",
       "Thor: The Dark World"
@@ -600,7 +600,7 @@
     "birthDay": "2001",
     "status": "alive",
     "actors": "Tom Holland",
-    "photo": "dbimage/Spider-Man_FFH_Profile.jpg",
+    "photo": "../dbimage/Spider-Man_FFH_Profile.jpg",
     "movies": [
       "Iron Man 2",
       "Captain America: Civil War",
@@ -619,7 +619,7 @@
     "birthDay": "1980",
     "status": "alive",
     "actors": "Chris Pratt",
-    "photo": "dbimage/Star-Lord_AIW_Profile.jpg",
+    "photo": "../dbimage/Star-Lord_AIW_Profile.jpg",
     "movies": [
       "Guardians of the Galaxy",
       "Guardians of the Galaxy Vol. 2",
@@ -636,7 +636,7 @@
     "deathDay": "2018",
     "status": "deceased",
     "actors": "Josh Brolin",
-    "photo": "dbimage/97d1d9f934a350cee765c5ac1a466605.jpg",
+    "photo": "../dbimage/97d1d9f934a350cee765c5ac1a466605.jpg",
     "movies": [
       "Guardians of the Galaxy",
       "Guardians of the Galaxy Vol. 2",
@@ -653,7 +653,7 @@
     "birthDay": "964",
     "status": "alive",
     "actors": "Chris Hemsworth",
-    "photo": "dbimage/Thor-EndgameProfile.jpg",
+    "photo": "../dbimage/Thor-EndgameProfile.jpg",
     "movies": [
       "Thor",
       "The Avengers",
@@ -672,7 +672,7 @@
     "gender": "female",
     "status": "alive",
     "actors": "Tessa Thompson",
-    "photo": "dbimage/Thor_Ragnarok_Textless_Character_Posters_05.jpg",
+    "photo": "../dbimage/Thor_Ragnarok_Textless_Character_Posters_05.jpg",
     "movies": [
       "Thor: Ragnarok",
       "Avengers: Endgame"
@@ -687,7 +687,7 @@
     "deathDay": "2018",
     "status": "destroyed",
     "actors": "Paul Bettany",
-    "photo": "dbimage/Vision_AIW_Profile.jpg",
+    "photo": "../dbimage/Vision_AIW_Profile.jpg",
     "movies": [
       "Avengers: Age of Ultron",
       "Captain America: Civil War",
@@ -702,7 +702,7 @@
     "gender": "male",
     "status": "alive",
     "actors": "Michael Keaton",
-    "photo": "dbimage/Vulture.jpg",
+    "photo": "../dbimage/Vulture.jpg",
     "movies": [
       "Spider-Man: Homecoming"
     ]
@@ -716,7 +716,7 @@
     "birthDay": "1968",
     "status": "alive",
     "actors": "Don Cheadle",
-    "photo": "dbimage/WarMachine-EndgameProfile.jpg",
+    "photo": "../dbimage/WarMachine-EndgameProfile.jpg",
     "movies": [
       "Iron Man",
       "Iron Man 2",
@@ -736,7 +736,7 @@
     "birthDay": "1980",
     "status": "alive",
     "actors": "Evangeline Lilly",
-    "photo": "dbimage/Textless_AMATW_Character_Posters_02.jpg",
+    "photo": "../dbimage/Textless_AMATW_Character_Posters_02.jpg",
     "movies": [
       "Ant-Man",
       "Ant-Man and the Wasp",
@@ -752,7 +752,7 @@
     "birthDay": "1917",
     "status": "alive",
     "actors": "Sebastian Stan",
-    "photo": "dbimage/Winter_Soldier_AIW_Profile.jpg",
+    "photo": "../dbimage/Winter_Soldier_AIW_Profile.jpg",
     "movies": [
       "Captain America: The First Avenger",
       "Captain America: The Winter Soldier",
@@ -769,7 +769,7 @@
     "gender": "male",
     "status": "alive",
     "actors": "Benedict Wong",
-    "photo": "dbimage/Wong_AIW_Profile.jpg",
+    "photo": "../dbimage/Wong_AIW_Profile.jpg",
     "movies": [
       "Doctor Strange",
       "Avengers: Infinity War",
@@ -784,7 +784,7 @@
     "deathDay": "2014",
     "status": "deceased",
     "actors": "Michael Rooker",
-    "photo": "dbimage/Yondu_Profile%281%29.png",
+    "photo": "../dbimage/Yondu_Profile%281%29.png",
     "movies": [
       "Guardians of the Galaxy",
       "Guardians of the Galaxy Vol. 2"
