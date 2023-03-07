@@ -1,7 +1,7 @@
 const renderHeroes = (heroes) => {
   const main = document.querySelector("main");
   const heroConteiner = document.createElement("div");
-  
+
   heroConteiner.setAttribute("id", "heroe-conteiner");
 
   main.innerHTML = "";
@@ -28,10 +28,8 @@ const renderHeroes = (heroes) => {
     const renderMovies = () => {
       if (movies) {
         movies.forEach((item) => {
-         
           if (item) {
             arr.push(`<span>${item}</span>`);
-            
           }
         });
       }

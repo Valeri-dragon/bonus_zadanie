@@ -22,7 +22,13 @@ const filmFilter = (heroes, value) => {
     }
   });
 };
-
+const genderFilter = (heroes, value) => {
+  return heroes.filter((heroesItem) => {
+    if (heroesItem.gender.toLowerCase() === value) {
+      return heroesItem.gender.toLowerCase() === value;
+    }
+  });
+};
 const debounce = (callee, timeoutMs = 1000) => {
   return (...args) => {
     args.lastCall = Date.now();
@@ -34,4 +40,4 @@ const debounce = (callee, timeoutMs = 1000) => {
   };
 };
 
-export { getData, searchFilter, filmFilter, debounce };
+export { getData, searchFilter, filmFilter, genderFilter, debounce };
