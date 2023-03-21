@@ -55,13 +55,15 @@ const search = () => {
     p.textContent = "";
     const selectName =
       selectGender.options[selectGender.selectedIndex].textContent;
-
     getData("./dbHeroes.json").then((heroes) =>
       renderHeroes(genderFilter(heroes, selectName))
     );
-
     p.textContent = `Выведены карточки героев пола ${selectName}`;
     controlWrapper.after(p);
+    if (selectName === "Герои по полу") {
+      getData("./dbHeroes.json").then((heroes) => renderHeroes(heroes));
+      p.textContent = `Выведены карточки всех героев`;
+    }
   });
   controlWrapper.addEventListener("click", (e) => {
     if (e.target.closest(".search-btn")) {
